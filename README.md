@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael! Most call me mike. I am a fullstack web developer.
 - 👀 I’m interested in web development and working in collaberation with other devlopers. 
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anyhthing I feel i can make a contribution on.
 - 📫 If you want to reach it is best done by email mdwilliams0521@gmail.com. Or you xcan try contacting on my linkedin https://www.linkedin.com/in/michael-williams-43960722b/
 
