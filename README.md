@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Michael! Most call me mike. I am a fullstack web developer.
+- 👋 Hi, I’m Michael! Most call me mike. I am a frontend web developer. 
 - 👀 I’m interested in web development and working in collaberation with other devlopers. 
+- 📚 Currently I am learing ReactJS and having so much fun!
 - 💞️ I’m looking to collaborate on anything I feel i can make a contribution on.
 - 📫 If you want to reach it is best done by email mdwilliams0521@gmail.com. Or you can try contacting me on linkedin https://www.linkedin.com/in/michael-williams-43960722b/
 
